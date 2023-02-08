@@ -8,6 +8,6 @@ type Props = {
   session: Session | null;
 };
 
-export const SessionProvider = ({ children, session }: Props) => {
+export function SessionProvider({ children, session }: Props) {
   return <Provider>{children}</Provider>;
-};
+}

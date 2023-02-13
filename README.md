@@ -8,8 +8,8 @@
 
 # ![Preview](img/Home.PNG)
 
-`Home`
+`Home Screen`
 
 # ![Preview](img/Chat.PNG)
 
-`Chat`
+`Chat Screen`
